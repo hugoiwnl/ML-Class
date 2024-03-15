@@ -7,9 +7,17 @@
  - Dimensionality reduction
  - Clustering
  - etc.
-Example of the plots that I created:
+
+## Example of the plots that I created:
+
+Neural Network updating plot:
+
 ![Nerual Networks](ml1.png)
 
+Dimensionality reduction with PCA:
+
 ![PCA](ml2.png)
+
+Clustering with Lloyd's algorithm:
 
 ![Clustering](ml3.png)
